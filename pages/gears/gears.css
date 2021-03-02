@@ -1,0 +1,33 @@
+#GearsContainer {
+  width: 80%;
+  margin: auto;
+  display: inline-block;
+  padding-inline-start: 0px;
+}
+
+#GearsContainer img {
+  width: 120px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#GearsContainer li {
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+.link {
+  margin-left: 10px;
+}
+
+.left-div {
+  width: 40%;
+  display: inline-block;
+  vertical-align: bottom;
+  text-align: left;
+}
+
+.right-div {
+  display: inline-block;
+  width: 30%;
+}

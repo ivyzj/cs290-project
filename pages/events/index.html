@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Events</title>
+  <link rel="stylesheet" href="../../styles.css">
+  <link rel="stylesheet" href="./events.css">
+</head>
+<body class="center">
+  <ul id="NavBar"></ul>
+
+  <div class="page-container">
+
+    <h2>Event Subscription</h2>
+
+    <form style="margin-bottom: 30px;">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name">
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email" size="50">
+      <input type="submit" id="submit">
+    </form>
+
+    <div>
+      <b id="message" style="color: red;"></b>
+    </div>
+
+    <hr class="solid", style="width: 70%;">
+
+    <ul id="EventsContainer"></ul>
+  </div>
+
+  <script src="../../app.js"></script>
+  <script src="./index.js"></script>
+</body>
+</html>

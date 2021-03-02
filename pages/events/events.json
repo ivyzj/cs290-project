@@ -1,0 +1,18 @@
+{
+    "events": [
+        {
+            "name": "Oyster Festival",
+            "image": "images/01.jpg",
+            "where": "https://goo.gl/maps/Ph6qG6fJu9e5FxQa7",
+            "when": "04/05/2021, 6PM-10PM",
+            "description": "Convallis posuere morbi leo urna molestie at elementum eu. Posuere urna nec tincidunt praesent semper feugiat nibh. Lacus viverra vitae congue eu consequat ac. Ut tellus elementum sagittis vitae et. Risus in hendrerit gravida rutrum quisque non tellus. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Vitae semper quis lectus nulla at volutpat. Non odio euismod lacinia at quis risus sed vulputate odio. At augue eget arcu dictum varius duis. Ornare lectus sit amet est placerat in egestas erat imperdiet. Lobortis elementum nibh tellus molestie nunc non. Sit amet nisl suscipit adipiscing bibendum est ultricies."
+        },
+        {
+            "name": "Fishing Market",
+            "image": "images/02.jpg",
+            "where": "https://g.page/Fish-Market-San-Mateo?share",
+            "when": "03/05/2021, 7AM-2PM",
+            "description": "Sit amet nisl suscipit adipiscing bibendum est ultricies integer quis. Parturient montes nascetur ridiculus mus mauris vitae. Nulla at volutpat diam ut venenatis tellus in. Et malesuada fames ac turpis egestas. Tempor id eu nisl nunc mi ipsum. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Faucibus nisl tincidunt eget nullam. Elementum pulvinar etiam non quam. Nisi porta lorem mollis aliquam ut porttitor leo a diam. In pellentesque massa placerat duis. Sed faucibus turpis in eu mi bibendum. Pulvinar pellentesque habitant morbi tristique senectus et netus. Dictum non consectetur a erat nam at. Egestas pretium aenean pharetra magna ac placerat."
+        }
+    ]
+}
