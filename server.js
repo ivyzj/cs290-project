@@ -1,7 +1,8 @@
 const express = require("express");
 const path = require("path");
 const app = express();
-const port = 3000;
+
+app.set("port", 3910);
 
 app.use(express.static(path.join(__dirname)));
 app.use(express.json());
@@ -33,6 +34,7 @@ app.post("/api/subscribe", (req, res) => {
   }
 }); 
 
-app.listen(port, () => {
-  console.log(`App listening at http://localhost:${port}`);
+app.listen(app.get(port), () => {
+  // console.log(`App listening at http://localhost:${port}`);
+  console.log('App listening at http://flip1.engr.oregonstate.edu:' + app.get(port) + '; press Ctrl-C to terminate.');
 });
