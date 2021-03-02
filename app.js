@@ -1,10 +1,10 @@
 const NavBar = document.getElementById("NavBar");
 
 const PATHS = [
-  { text: "Home", url: "/" },
-  { text: "Locations", url: "/pages/locations/index.html" },
-  { text: "Events", url: "/pages/events/index.html" },
-  { text: "Gears", url: "/pages/gears/index.html" },
+  { text: "Home", url: "/~zhenjing/" },
+  { text: "Locations", url: "/~zhenjing/pages/locations/index.html" },
+  { text: "Events", url: "/~zhenjing/pages/events/index.html" },
+  { text: "Gears", url: "/~zhenjing/pages/gears/index.html" },
 ];
 
 // NavBar

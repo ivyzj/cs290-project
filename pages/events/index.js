@@ -63,7 +63,9 @@ document.getElementById('submit').addEventListener('click', function(e){
   e.preventDefault();
 
   const request = new XMLHttpRequest();
-  const url = "/api/subscribe";
+
+  // const url = "/api/subscribe";
+  const url = "http://web.engr.oregonstate.edu/~zhangluy/tools/class-content/form_tests/check_request.php"
 
   request.open("POST", url, true);
 
@@ -74,7 +76,9 @@ document.getElementById('submit').addEventListener('click', function(e){
       // Clear inputs and show server response.
       document.getElementById("name").value = "";
       document.getElementById("email").value = "";
-      document.getElementById("message").textContent = request.response;
+      // document.getElementById("message").textContent = request.response;
+      console.log(request.response)
+      document.getElementById("message").textContent = "Thanks for subscribing!"
     }
   }
 

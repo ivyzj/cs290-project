@@ -5,7 +5,7 @@ setNavButtonActive('Locations');
 const LOCATIONS = [
   {
     name: "San Francisco Bay",
-    image: "/pages/locations/images/01.jpg",
+    image: "images/01.jpg",
     tide_chart: "tide_charts/01.pdf",
     maps_link: "https://goo.gl/maps/sHsM8nCJJRj9CdrB6",
     description:
@@ -13,7 +13,7 @@ const LOCATIONS = [
   },
   {
     name: "Half Moon Bay",
-    image: "/pages/locations/images/04.jpg",
+    image: "images/04.jpg",
     tide_chart: "tide_charts/04.pdf",
     maps_link: "https://goo.gl/maps/a8eF7vVX2e8nmV7U8",
     description:
@@ -21,7 +21,7 @@ const LOCATIONS = [
   },
   {
     name: "Bodega Bay",
-    image: "/pages/locations/images/05.jpg",
+    image: "images/05.jpg",
     tide_chart: "tide_charts/05.pdf",
     maps_link: "https://goo.gl/maps/Xv7iVyveTVePSAXR8",
     description:
@@ -29,14 +29,14 @@ const LOCATIONS = [
   },
   {
     name: "Sacramento-San Joaquin Delta",
-    image: "/pages/locations/images/02.jpg",
+    image: "images/02.jpg",
     maps_link: "https://goo.gl/maps/zNeqSHayvHxko24q6",
     description:
       "Et netus et malesuada fames ac. Justo donec enim diam vulputate ut. Placerat orci nulla pellentesque dignissim enim sit amet. Faucibus interdum posuere lorem ipsum dolor sit. Facilisis volutpat est velit egestas dui id ornare arcu. Nunc scelerisque viverra mauris in aliquam sem fringilla. Ut enim blandit volutpat maecenas volutpat blandit. Consectetur lorem donec massa sapien faucibus et molestie ac feugiat. Rhoncus mattis rhoncus urna neque viverra justo nec. Aliquet porttitor lacus luctus accumsan.",
   },
   {
     name: "Clear Lake",
-    image: "/pages/locations/images/03.jpg",
+    image: "images/03.jpg",
     maps_link: "https://goo.gl/maps/Yo3zXzv7xaK42Qkh9",
     description:
       "Sed faucibus turpis in eu mi bibendum. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Amet massa vitae tortor condimentum lacinia quis vel eros. Netus et malesuada fames ac turpis. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Dui ut ornare lectus sit amet est. Commodo elit at imperdiet dui. Nibh cras pulvinar mattis nunc. Malesuada bibendum arcu vitae elementum. Mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Placerat vestibulum lectus mauris ultrices eros in cursus turpis.",
